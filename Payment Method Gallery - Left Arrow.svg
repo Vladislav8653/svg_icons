@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="9" height="15" viewBox="0 0 9 15">
+  <defs>
+    <clipPath id="clip-Payment_Method_Gallery_-_Left_Arrow">
+      <rect width="9" height="15"/>
+    </clipPath>
+  </defs>
+  <g id="Payment_Method_Gallery_-_Left_Arrow" data-name="Payment Method Gallery - Left Arrow" clip-path="url(#clip-Payment_Method_Gallery_-_Left_Arrow)">
+    <path id="Path_32592" data-name="Path 32592" d="M7.309,15,9,13.576,3.024,7.5,9,1.422,7.306,0,0,7.5Z" fill="#949494"/>
+  </g>
+</svg>

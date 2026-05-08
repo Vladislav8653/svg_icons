@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="276" height="34" viewBox="0 0 276 34">
+  <defs>
+    <filter id="Path_35630" x="-1" y="-1" width="278" height="36" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Process_Bar_Mobile">
+      <rect width="276" height="34"/>
+    </clipPath>
+  </defs>
+  <g id="Process_Bar_Mobile" data-name="Process Bar Mobile" clip-path="url(#clip-Process_Bar_Mobile)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_35630)">
+      <path id="Path_35630-2" data-name="Path 35630" d="M250.751,0H9.221A9.127,9.127,0,0,0,0,9.005,9.139,9.139,0,0,0,9.235,18H250.765A9.139,9.139,0,0,0,260,9a9.127,9.127,0,0,0-9.249-9" transform="translate(8 8)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

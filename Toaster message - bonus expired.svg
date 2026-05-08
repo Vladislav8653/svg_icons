@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <clipPath id="clip-Toaster_message_-_bonus_expired_">
+      <rect width="17" height="17"/>
+    </clipPath>
+  </defs>
+  <g id="Toaster_message_-_bonus_expired_" data-name="Toaster message - bonus expired " clip-path="url(#clip-Toaster_message_-_bonus_expired_)">
+    <path id="information-circle-fill" d="M13.166,4.667a8.508,8.508,0,1,0,6.008,2.492A8.5,8.5,0,0,0,13.166,4.667Zm0,3.889a.829.829,0,1,1-.025,0ZM14,17.537a.829.829,0,1,1-1.659,0V12.287a.829.829,0,1,1,1.659,0Z" transform="translate(-4.666 -4.667)" fill="#fff"/>
+  </g>
+</svg>

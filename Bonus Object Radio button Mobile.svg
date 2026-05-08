@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_24460" data-name="Rectangle 24460" width="20.999" height="21" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_24459" data-name="Rectangle 24459" width="21" height="21" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Bonus_Object_Radio_button_Mobile">
+      <rect width="21" height="21"/>
+    </clipPath>
+  </defs>
+  <g id="Bonus_Object_Radio_button_Mobile" data-name="Bonus Object Radio button Mobile" clip-path="url(#clip-Bonus_Object_Radio_button_Mobile)">
+    <g id="Group_60370" data-name="Group 60370">
+      <g id="Group_60369" data-name="Group 60369" clip-path="url(#clip-path)">
+        <g id="Group_60368" data-name="Group 60368">
+          <g id="Group_60367" data-name="Group 60367" clip-path="url(#clip-path-2)">
+            <path id="Path_35488" data-name="Path 35488" d="M10.5,21A10.5,10.5,0,1,1,21,10.5,10.512,10.512,0,0,1,10.5,21m0-19A8.5,8.5,0,1,0,19,10.5,8.51,8.51,0,0,0,10.5,2" fill="#c7c7c7" opacity="0.999"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

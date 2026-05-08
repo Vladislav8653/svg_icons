@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="738" height="34" viewBox="0 0 738 34">
+  <defs>
+    <filter id="Rectangle_24514" x="-1" y="-1" width="740" height="36" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Process_Bar_Desktop">
+      <rect width="738" height="34"/>
+    </clipPath>
+  </defs>
+  <g id="Process_Bar_Desktop" data-name="Process Bar Desktop" clip-path="url(#clip-Process_Bar_Desktop)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_24514)">
+      <rect id="Rectangle_24514-2" data-name="Rectangle 24514" width="722" height="18" rx="9" transform="translate(8 8)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

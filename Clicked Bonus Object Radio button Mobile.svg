@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_24465" data-name="Rectangle 24465" width="20.5" height="20.5" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_24463" data-name="Rectangle 24463" width="12" height="12" transform="translate(4.25 4.25)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Clicked_Bonus_Object_Radio_button_Mobile">
+      <rect width="21" height="21"/>
+    </clipPath>
+  </defs>
+  <g id="Clicked_Bonus_Object_Radio_button_Mobile" data-name="Clicked Bonus Object Radio button Mobile" clip-path="url(#clip-Clicked_Bonus_Object_Radio_button_Mobile)">
+    <g id="Group_60381" data-name="Group 60381">
+      <g id="Group_60380" data-name="Group 60380" clip-path="url(#clip-path)">
+        <g id="Group_60379" data-name="Group 60379">
+          <g id="Group_60506" data-name="Group 60506">
+            <path id="Path_35497" data-name="Path 35497" d="M10.25,0A10.25,10.25,0,1,0,20.5,10.25,10.261,10.261,0,0,0,10.25,0M1.5,10.25A8.75,8.75,0,1,1,10.25,19,8.76,8.76,0,0,1,1.5,10.25" fill="#16417d"/>
+            <path id="Path_35498" data-name="Path 35498" d="M10.25,4.25a6,6,0,1,0,6,6,6,6,0,0,0-6-6" fill="#fff"/>
+            <g id="Group_60377" data-name="Group 60377" opacity="0.999" style="isolation: isolate">
+              <g id="Group_60376" data-name="Group 60376">
+                <g id="Group_60375" data-name="Group 60375" clip-path="url(#clip-path-2)">
+                  <path id="Path_35499" data-name="Path 35499" d="M10.25,4.25a6,6,0,1,0,6,6,6,6,0,0,0-6-6" fill="#16417d"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

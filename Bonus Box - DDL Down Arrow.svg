@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="7" viewBox="0 0 13 7">
+  <defs>
+    <clipPath id="clip-Bonus_Box_-_DDL_Down_Arrow">
+      <rect width="13" height="7"/>
+    </clipPath>
+  </defs>
+  <g id="Bonus_Box_-_DDL_Down_Arrow" data-name="Bonus Box - DDL Down Arrow" clip-path="url(#clip-Bonus_Box_-_DDL_Down_Arrow)">
+    <path id="Path_35419" data-name="Path 35419" d="M12.76,6.77a.848.848,0,0,1-1.159,0L6.5,1.89l-5.1,4.882a.845.845,0,0,1-1.153,0,.765.765,0,0,1,0-1.112L5.919.228h0a.85.85,0,0,1,1.158,0l5.686,5.438A.759.759,0,0,1,12.76,6.77Z" transform="translate(13 7) rotate(180)" fill="#404040"/>
+  </g>
+</svg>

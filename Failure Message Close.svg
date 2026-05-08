@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_23219" data-name="Rectangle 23219" width="8.275" height="8.421" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Failure_Message_Close">
+      <rect width="17" height="17"/>
+    </clipPath>
+  </defs>
+  <g id="Failure_Message_Close" data-name="Failure Message Close" clip-path="url(#clip-Failure_Message_Close)">
+    <g id="Group_60486" data-name="Group 60486" transform="translate(14657 2279)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="8.5" cy="8.5" r="8.5" transform="translate(-14657 -2279)" fill="#c67373"/>
+      <g id="Group_59433" data-name="Group 59433" transform="translate(-14652.458 -2274.75)">
+        <g id="Group_55591" data-name="Group 55591" clip-path="url(#clip-path)">
+          <path id="Path_32765" data-name="Path 32765" d="M5.656,4.21,7.963,1.854a1.094,1.094,0,0,0,0-1.53,1.078,1.078,0,0,0-1.53,0L4.138,2.659,1.855.325a1.075,1.075,0,0,0-1.536,0,1.091,1.091,0,0,0,0,1.529L2.625,4.209.313,6.567a1.091,1.091,0,0,0,0,1.53,1.06,1.06,0,0,0,.751.324h.015A1.084,1.084,0,0,0,1.845,8.1L4.138,5.75,6.429,8.089a1.053,1.053,0,0,0,.75.325,1.161,1.161,0,0,0,.782-.323,1.1,1.1,0,0,0,0-1.53Z" transform="translate(0 0)" fill="#ffe8e8"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

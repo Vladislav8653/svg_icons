@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="30" viewBox="0 0 50 30">
+  <defs>
+    <clipPath id="clip-Shop_Cash">
+      <rect width="50" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="Shop_Cash" data-name="Shop Cash" clip-path="url(#clip-Shop_Cash)">
+    <g id="Group_61260" data-name="Group 61260" transform="translate(0.172 -2)">
+      <rect id="Rectangle_20692" data-name="Rectangle 20692" width="50" height="30" rx="4" transform="translate(-0.172 2)" fill="#fff"/>
+      <g id="Group_61252" data-name="Group 61252" transform="translate(20834.828 21490.834)">
+        <g id="Group_54327" data-name="Group 54327" transform="translate(-20820.01 -21475.33)">
+          <path id="Path_4912" data-name="Path 4912" d="M0,0H17.036V12.5H0Z" transform="translate(2.1 1.169)" fill="#f8d89e"/>
+          <rect id="Rectangle_6148" data-name="Rectangle 6148" width="8.262" height="5.515" transform="translate(9.278 6.882)" fill="#8ae3ff" opacity="0.83"/>
+          <rect id="Rectangle_6150" data-name="Rectangle 6150" width="4.462" height="6.715" transform="translate(3.428 6.802)" fill="#aa8f6d"/>
+          <path id="Path_4898" data-name="Path 4898" d="M96.5,46.6A1.552,1.552,0,0,1,95,45h3.006A1.552,1.552,0,0,1,96.5,46.6Z" transform="translate(-76.966 -40.637)" fill="#c74544"/>
+          <path id="Path_4899" data-name="Path 4899" d="M84.5,46.6A1.552,1.552,0,0,1,83,45h3.006A1.552,1.552,0,0,1,84.5,46.6Z" transform="translate(-67.972 -40.637)" fill="#e6e6e6"/>
+          <path id="Path_4900" data-name="Path 4900" d="M72.5,46.6A1.552,1.552,0,0,1,71,45h3.006A1.552,1.552,0,0,1,72.5,46.6Z" transform="translate(-58.977 -40.637)" fill="#c74544"/>
+          <path id="Path_4901" data-name="Path 4901" d="M60.5,46.6A1.552,1.552,0,0,1,59,45h3.006A1.552,1.552,0,0,1,60.5,46.6Z" transform="translate(-49.983 -40.637)" fill="#e6e6e6"/>
+          <path id="Path_4902" data-name="Path 4902" d="M48.5,46.6A1.552,1.552,0,0,1,47,45h3.006A1.552,1.552,0,0,1,48.5,46.6Z" transform="translate(-40.988 -40.637)" fill="#c74544"/>
+          <path id="Path_4905" data-name="Path 4905" d="M89.932,35.964,88.239,31.6h1.74a1,1,0,0,1,.875.527l2.084,3.837Z" transform="translate(-71.898 -31.6)" fill="#ea5150"/>
+          <path id="Path_4906" data-name="Path 4906" d="M79.96,35.964,78.944,31.6h2.328l1.693,4.364Z" transform="translate(-64.931 -31.6)" fill="#fff"/>
+          <path id="Path_4907" data-name="Path 4907" d="M69.987,35.964,69.648,31.6h2.328l1.016,4.364Z" transform="translate(-57.963 -31.6)" fill="#ea5150"/>
+          <path id="Path_4908" data-name="Path 4908" d="M59,35.964l.339-4.364h2.328l.339,4.364Z" transform="translate(-49.983 -31.6)" fill="#fff"/>
+          <path id="Path_4909" data-name="Path 4909" d="M47,35.964,48.016,31.6h2.328l-.339,4.364Z" transform="translate(-40.988 -31.6)" fill="#ea5150"/>
+          <path id="Path_4910" data-name="Path 4910" d="M35,35.964,36.693,31.6h2.328l-1.016,4.364Z" transform="translate(-31.994 -31.6)" fill="#fff"/>
+          <path id="Path_4903" data-name="Path 4903" d="M36.5,46.6A1.552,1.552,0,0,1,35,45h3.006A1.552,1.552,0,0,1,36.5,46.6Z" transform="translate(-31.995 -40.637)" fill="#e6e6e6"/>
+          <path id="Path_4904" data-name="Path 4904" d="M24.5,46.6A1.552,1.552,0,0,1,23,45h3.006A1.552,1.552,0,0,1,24.5,46.6Z" transform="translate(-23 -40.637)" fill="#c74544"/>
+          <path id="Path_4911" data-name="Path 4911" d="M23,35.964l2.084-3.837a1,1,0,0,1,.875-.527H27.7l-1.693,4.364Z" transform="translate(-23 -31.6)" fill="#ea5150"/>
+        </g>
+        <text id="Shop_cash-2" data-name="Shop cash" transform="translate(-20829 -21478.834)" fill="#16417d" font-size="8" font-family="SairaSemiCondensed-Bold, Saira SemiCondensed" font-weight="700"><tspan x="0" y="0">SHOP CASH</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

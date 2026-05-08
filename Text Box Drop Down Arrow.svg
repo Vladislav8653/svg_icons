@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="5" viewBox="0 0 10 5">
+  <defs>
+    <clipPath id="clip-Text_Box_Drop_Down_Arrow">
+      <rect width="10" height="5"/>
+    </clipPath>
+  </defs>
+  <g id="Text_Box_Drop_Down_Arrow" data-name="Text Box Drop Down Arrow" clip-path="url(#clip-Text_Box_Drop_Down_Arrow)">
+    <path id="Path_35506" data-name="Path 35506" d="M36.207,15.143a.538.538,0,0,0-.708,0l-4.146,3.766-4.144-3.765a.542.542,0,0,0-.711,0,.429.429,0,0,0,0,.642L31,19.878a.543.543,0,0,0,.71,0l4.5-4.088a.442.442,0,0,0,.145-.324.434.434,0,0,0-.146-.323" transform="translate(-26.353 -15.01)" fill="#404040"/>
+  </g>
+</svg>

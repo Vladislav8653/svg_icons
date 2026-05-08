@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="7" viewBox="0 0 12 7">
+  <defs>
+    <clipPath id="clip-Signup_Login_Drop_Down_Arrow">
+      <rect width="12" height="7"/>
+    </clipPath>
+  </defs>
+  <g id="Signup_Login_Drop_Down_Arrow" data-name="Signup/Login Drop Down Arrow" clip-path="url(#clip-Signup_Login_Drop_Down_Arrow)">
+    <path id="Path_35508" data-name="Path 35508" d="M31.813,8.99l-6-5.758L26.882,1.99l4.931,4.732L36.744,1.99l1.069,1.242Z" transform="translate(-25.813 -1.99)" fill="#404040"/>
+  </g>
+</svg>

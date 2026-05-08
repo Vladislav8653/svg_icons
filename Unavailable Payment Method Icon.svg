@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_24462" data-name="Rectangle 24462" width="17" height="17" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Unavailable_Payment_Method_Icon">
+      <rect width="17" height="17"/>
+    </clipPath>
+  </defs>
+  <g id="Unavailable_Payment_Method_Icon" data-name="Unavailable Payment Method Icon" clip-path="url(#clip-Unavailable_Payment_Method_Icon)">
+    <g id="Group_60374" data-name="Group 60374">
+      <g id="Group_60373" data-name="Group 60373" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="Path_35493" data-name="Path 35493" d="M8.5,0h0A8.5,8.5,0,1,0,17,8.5,8.5,8.5,0,0,0,8.5,0M7.583,4.012a1.09,1.09,0,0,1,.934-1.078l.017-.01h.142A1.089,1.089,0,0,1,9.764,4.012v5.1A1.093,1.093,0,0,1,8.673,10.2h0a1.091,1.091,0,0,1-1.09-1.091Zm1.1,9.866a1.3,1.3,0,1,1,1.3-1.3,1.3,1.3,0,0,1-1.3,1.3" transform="translate(0 0)" fill="#db342e"/>
+        <path id="Path_35494" data-name="Path 35494" d="M8.4,10.1h0A1.093,1.093,0,0,0,9.486,9V3.9A1.089,1.089,0,0,0,8.4,2.817H8.256l-.017.01A1.091,1.091,0,0,0,7.3,3.9v5.1A1.091,1.091,0,0,0,8.4,10.1" transform="translate(0.278 0.107)" fill="#fff"/>
+        <path id="Path_35495" data-name="Path 35495" d="M8.408,10.857h0a1.3,1.3,0,1,0,1.3,1.3,1.3,1.3,0,0,0-1.3-1.3" transform="translate(0.271 0.414)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

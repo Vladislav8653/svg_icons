@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <clipPath id="clip-Toaster_message_-_Congratulations">
+      <rect width="17" height="17"/>
+    </clipPath>
+  </defs>
+  <g id="Toaster_message_-_Congratulations" data-name="Toaster message - Congratulations" clip-path="url(#clip-Toaster_message_-_Congratulations)">
+    <path id="Approve" d="M10.5,2A8.5,8.5,0,1,0,19,10.5,8.525,8.525,0,0,0,10.5,2Zm3.57,7.055-4.08,4.08a.822.822,0,0,1-1.19,0l-1.87-1.87a.841.841,0,0,1,1.19-1.19L9.4,11.35,12.88,7.865a.841.841,0,1,1,1.19,1.19Z" transform="translate(-2 -2)" fill="#fff"/>
+  </g>
+</svg>

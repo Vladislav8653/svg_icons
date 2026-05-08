@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="8" height="13" viewBox="0 0 8 13">
+  <defs>
+    <clipPath id="clip-My_Promotions_Button_Arrow">
+      <rect width="8" height="13"/>
+    </clipPath>
+  </defs>
+  <g id="My_Promotions_Button_Arrow" data-name="My Promotions Button Arrow" clip-path="url(#clip-My_Promotions_Button_Arrow)">
+    <path id="Path_35509" data-name="Path 35509" d="M63.982,24.363l-1.177-1.121,5.649-5.379-5.649-5.379,1.177-1.121,6.823,6.5Z" transform="translate(-62.806 -11.363)" fill="#fff"/>
+  </g>
+</svg>

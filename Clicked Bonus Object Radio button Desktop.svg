@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-Clicked_Bonus_Object_Radio_button_Desktop">
+      <rect width="26" height="26"/>
+    </clipPath>
+  </defs>
+  <g id="Clicked_Bonus_Object_Radio_button_Desktop" data-name="Clicked Bonus Object Radio button Desktop" clip-path="url(#clip-Clicked_Bonus_Object_Radio_button_Desktop)">
+    <g id="Group_60496" data-name="Group 60496" transform="translate(14454.813 2782.553)">
+      <path id="Path_35636" data-name="Path 35636" d="M13,58.447a13,13,0,1,1,13-13,13.015,13.015,0,0,1-13,13m0-24.471A11.471,11.471,0,1,0,24.471,45.447,11.484,11.484,0,0,0,13,33.976" transform="translate(-14454.813 -2815)" fill="#16417d"/>
+      <path id="Path_35637" data-name="Path 35637" d="M12.917,36.7h0A8.667,8.667,0,1,1,4.25,45.364,8.667,8.667,0,0,1,12.917,36.7" transform="translate(-14454.729 -2814.917)" fill="#16417d"/>
+      <rect id="Rectangle_24512" data-name="Rectangle 24512" width="17.333" height="17.333" transform="translate(-14450.479 -2778.22)" fill="none"/>
+    </g>
+  </g>
+</svg>
